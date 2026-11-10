@@ -1,3 +1,4 @@
 # Myfirst-repos
 This is my first Git repository
-I am exploring commit in Git hub.
+<br>
+<h2>I am exploring commit in Git hub.</h2>
